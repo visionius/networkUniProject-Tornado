@@ -1,5 +1,5 @@
 # networkUniProject-Tornado
-ticket system api with tornado using python.
+Ticket system api with tornado using python.
 
 
 here is the simple video of running server and send requests with post and get method at the same time.
